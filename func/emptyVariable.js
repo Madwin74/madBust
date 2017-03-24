@@ -16,5 +16,5 @@ function emptyVariable(empVar){
     default:
       empVar = undefined;
   }
-  return;
+  return empVar;
 }
